@@ -12,7 +12,7 @@ This test repository provides extensive information to the learners on how they 
 * Edit the parts that you feel are vague by alternating between Edit New File and Preview
 * Add a Commit message below
 * Then commit new file
----------------------
+----
 _**Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app.**_
 - [x] Do I need to run a server? 
 - [x] Do I need to install any dependencies? 
